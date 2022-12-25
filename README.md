@@ -6,3 +6,6 @@ In this project, I used statistics and spreadsheet software such as Excel to ana
 
 
 # 2 - Query a Digital Music Store Database
+
+
+# 3 - Visualizations in Tableau
