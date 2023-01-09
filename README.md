@@ -6,6 +6,7 @@ In this project, I used statistics and spreadsheet software such as Excel to ana
 
 
 # 2 - Query a Digital Music Store Database
+In this project, I will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
 
 # 3 - Visualizations in Tableau
