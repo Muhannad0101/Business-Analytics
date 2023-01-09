@@ -1,4 +1,4 @@
-# Business-Analytics
+# Business-Analytics-Projects
 
 
 # 1 - Analyze The New York Stock Exchange Data
