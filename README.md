@@ -10,4 +10,4 @@ In this project, I will query a digital music store database which holds informa
 
 
 # 3 - Visualizations in Tableau
-### In this project, I will create interactive dashboards using Tableau and use them to discover and disseminate insights from data. I'll use a dataset on US flight delays to visualize the quality of airlines and airports, find the best times to fly, explore flight cancellations by airlines for each month, and reasons for cancellations, and more.
+In this project, I will create interactive dashboards using Tableau and use them to discover and disseminate insights from data. I'll use a dataset on US flight delays to visualize the quality of airlines and airports, find the best times to fly, explore flight cancellations by airlines for each month, and reasons for cancellations, and more.
