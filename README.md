@@ -15,3 +15,8 @@ In this project, I will query a digital music store database which holds informa
 
 # 3 - Visualizations in Tableau
 In this project, I will create interactive dashboards using Tableau and use them to discover and disseminate insights from data. I'll use a dataset on US flight delays to visualize the quality of airlines and airports, find the best times to fly, explore flight cancellations by airlines for each month, and reasons for cancellations, and more.
+
+
+# 4 - Regional Sales Analysis using PowerBI
+This project involves analyzing various aspects of a regional sales dataset using PowerBI. The project includes steps such as importing, processing and cleaning the data set to make it ready for visualization, creating appropriate relationships between the different tables in the data set, also creating and calculating some metrics such as fiscal years & months, revenues & revenues previous months, Import quota and Month-over-Month Growth Metrics (MoM%), and finally visualization of information to extract meaningful insights from them.
+
